@@ -1,2 +1,2 @@
-all-wisdom
-==========
+The Repository of all Wisdom
+============================
