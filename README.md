@@ -1,4 +1,4 @@
-The Repository of all Wisdom
-============================
+The ~~Suppository~~ Repository of all Wisdom
+============================================
 
 Errr...
